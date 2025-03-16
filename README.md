@@ -37,3 +37,11 @@ Ensure you have the following installed:
 pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
 
 
+# **How to Run the Notebook**
+
+## **Clone the Repository**
+To get started, clone the repository and navigate to the project directory:
+
+```bash
+git clone <repository_link>
+cd <repository_name>
