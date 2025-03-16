@@ -30,12 +30,7 @@ The project involves three datasets:
 ### **Requirements**  
 Ensure you have the following installed:  
 - Python 3.x  
-- Jupyter Notebook or Google Colab  
-- Required libraries (install using the command below)  
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
-
+- Jupyter Notebook or Google Colab   
 
 # **How to Run the Notebook**
 
@@ -43,5 +38,36 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
 To get started, clone the repository and navigate to the project directory:
 
 ```bash
-git clone <repository_link>
-cd <repository_name>
+git clone <https://github.com/m-mwangi/data_preprocessing-group-3.git>
+cd <data_preprocessing-group-3>
+```
+
+## **Run Each Section in Order**
+
+Execute the following sections sequentially to ensure proper data processing:
+
+### **Data Cleaning & Augmentation**
+- Handle missing values  
+- Apply data augmentation techniques  
+
+### **Merging Datasets**
+- Use `id_mapping.csv` to link datasets  
+- Merge `customer_transactions_augmented.csv` with `customer_social_profiles.csv`  
+
+### **Feature Engineering & Transformation**
+- Create new features  
+- Perform data transformations  
+
+### **Data Consistency & Quality Checks**
+- Check for duplicates  
+- Validate data consistency  
+
+## **Export Final Processed Data**
+Save the final datasets after preprocessing:
+
+- `customer_transactions_augmented.csv`  
+- `final_customer_data_[groupNumber].csv`  
+- `final_dataset_ready_[groupNumber].csv`  
+
+Now your dataset is ready for machine learning! 🚀
+
