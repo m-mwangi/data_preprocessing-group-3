@@ -19,9 +19,9 @@ The project involves three datasets:
 3. **id_mapping.csv** - Maps legacy customer IDs to new customer IDs.  
 
 ### **Generated Datasets**  
-- **customer_transactions_augmented.csv** – Processed transaction dataset with augmentation.  
-- **[final_customer_data_[group3].csv]** – Merged dataset with social profiles.  
-- **final_dataset_ready_[group3].csv** – Fully processed dataset ready for ML.  
+- **customer_transactions_augmented.csv** – Processed transaction dataset with augmentation.
+- **merged_dataset.csv** - Merged dataset  
+- **final_customer_data_group3.csv** – Merged dataset with Feature Engineering 
 
 ---
 
