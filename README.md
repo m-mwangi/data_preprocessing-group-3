@@ -20,7 +20,7 @@ The project involves three datasets:
 
 ### **Generated Datasets**  
 - **customer_transactions_augmented.csv** – Processed transaction dataset with augmentation.  
-- **final_customer_data_[group3].csv** – Merged dataset with social profiles.  
+- **[final_customer_data_[group3].csv]** – Merged dataset with social profiles.  
 - **final_dataset_ready_[group3].csv** – Fully processed dataset ready for ML.  
 
 ---
