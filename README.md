@@ -20,8 +20,8 @@ The project involves three datasets:
 
 ### **Generated Datasets**  
 - **customer_transactions_augmented.csv** – Processed transaction dataset with augmentation.  
-- **final_customer_data_[groupNumber].csv** – Merged dataset with social profiles.  
-- **final_dataset_ready_[groupNumber].csv** – Fully processed dataset ready for ML.  
+- **final_customer_data_[group3].csv** – Merged dataset with social profiles.  
+- **final_dataset_ready_[group3].csv** – Fully processed dataset ready for ML.  
 
 ---
 
@@ -35,3 +35,5 @@ Ensure you have the following installed:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
+
+
