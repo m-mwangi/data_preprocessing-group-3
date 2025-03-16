@@ -71,4 +71,7 @@ Save the final datasets after preprocessing:
 
 ## **Demo Video**
 
+## **Summary Report
+https://github.com/m-mwangi/data_preprocessing-group-3/blob/be101d18f7492ff5f509ded3a30d3962bf964159/Peer_Group3_Data%20Preprocessing_Summary%20Report.pdf
+
 
